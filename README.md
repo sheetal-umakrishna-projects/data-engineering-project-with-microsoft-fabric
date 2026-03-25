@@ -1,7 +1,7 @@
-# Earthquake Data Engineering Project with Microsoft Fabric
+# Data Engineering Project with Microsoft Fabric
 
 ## Project Overview
-This project demonstrates building a **data engineering and analytics pipeline** using **Python, PySpark, and Microsoft Fabric**. It ingests real-time earthquake events data from the [USGS API](https://earthquake.usgs.gov/) and processes it through **Bronze, Silver, and Gold layers** to create **business-ready datasets** for analysis and visualization in **Power BI**.
+This project demonstrates building a **data engineering and analytics pipeline** using **Python, PySpark, and Microsoft Fabric**. It ingests real-time **earthquake events data** from the [USGS API](https://earthquake.usgs.gov/) and processes it through **Bronze, Silver, and Gold layers** to create **business-ready datasets** for analysis and visualization in **Power BI**.
 
 This project provides hands-on experience in **data cleaning, transformation, and end-to-end data engineering workflows** using Python.
 
